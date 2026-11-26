@@ -3,7 +3,8 @@
 **A controlled comparison of contrastive and predictive vision-language learning**
 
 IDD Thesis · Department of Mathematical Sciences, IIT (BHU) Varanasi
-**Author:** Kishan Amaliya  **Supervisor:** Dr. Sheela Verma
+**Author:** Kishan Amaliya
+**Supervisor:** Dr. Sheela Verma
 
 ---
 
