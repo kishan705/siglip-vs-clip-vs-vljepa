@@ -1,0 +1,8 @@
+torch>=2.1
+torchvision
+transformers>=4.40      # only for the tokenizer, loading official weights and the parity tests
+sentencepiece           # SigLIP's tokenizer
+protobuf
+pillow
+pytest
+# wandb                 # optional: pip install wandb, then pass --wandb
